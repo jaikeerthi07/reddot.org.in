@@ -34,6 +34,15 @@
     "typescript": "^5.0.0",
     "xlsx": "^0.18.5"
   },
+  "overrides": {
+    "react": "$react",
+    "react-dom": "$react-dom",
+    "@types/react": "$@types/react",
+    "@types/react-dom": "$@types/react-dom"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "devDependencies": {
     "@types/mongodb": "^4.0.7",
     "autoprefixer": "^10.4.0",
