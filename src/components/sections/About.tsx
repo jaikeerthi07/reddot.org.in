@@ -10,7 +10,7 @@ const founders = [
         name: 'Jai Keerthi',
         role: 'Founder & AI Engineer',
         description: 'Specialized in Agentic AI, Generative AI, and intelligent automation.',
-        image: '/images/founder/jaikeerthi_updated.png',
+        image: '/images/founder/jai.png',
         portfolio: 'https://ether-dream-recreate.vercel.app/'
     },
     {
